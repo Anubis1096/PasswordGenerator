@@ -56,4 +56,4 @@ Link to deployed application:
 https://anubis1096.github.io/PasswordGenerator/index.html
 
 
-![alt text] (https://github.com/Anubis1096/PasswordGenerator/blob/master/assets/passgen.JPG?raw=true "passgen")
+![passgen](https://user-images.githubusercontent.com/65513935/85504535-12eb6400-b5a1-11ea-8a55-4810c8fbd15f.JPG)
