@@ -48,3 +48,7 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+-----------------------
+
+Link to deployed application:
+https://anubis1096.github.io/PasswordGenerator/index.html
