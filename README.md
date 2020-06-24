@@ -46,11 +46,12 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
+
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 -----------------------
 -----------------------
 
+I have completed the task as requested. I also added a return command in the event posted parameters are not met, which will force the user to refresh the page and try again. 
 
 Link to deployed application:
 https://anubis1096.github.io/PasswordGenerator/index.html
